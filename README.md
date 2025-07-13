@@ -13,3 +13,4 @@ then click "Add Selected To Get List".  If you manually shut down the get list i
 
 As soon as there are entries in the get list, the program goes to work sending in the requests and saving them to your selected folder. 
 
+This work is written entirely in Visual Basic Clasic (VB6), and published as FREEWARE 
